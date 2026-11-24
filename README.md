@@ -2,7 +2,7 @@
 
 ![Memory_Game](./screenshot/game.png)
 
-**Game-Link** : https://muhammad-abdusalam.github.io/Memory-Game/
+**Game-Link** : https://devmuhammadadam.github.io/Memory-Game/
 
 ### Built with ⚒️
 
@@ -12,4 +12,4 @@
 
 ### Author
 
-- Linkedin: [@muhammad-abdusalam](https://www.linkedin.com/in/muhammad-abdusalam)
+- Linkedin: [@devmuhammadadam](https://www.linkedin.com/in/devmuhammadadam)
